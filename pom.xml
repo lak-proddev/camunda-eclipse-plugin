@@ -57,6 +57,7 @@
 	</profiles>
 
 	<modules>
+	    <module>../akm/nividous/Camunda</module>
 		<module>org.camunda.bpm.modeler</module>
 		<module>org.camunda.bpm.modeler.tests</module>
 		<module>org.camunda.bpm.modeler.feature</module>
